@@ -1,0 +1,13 @@
+tipo:diesel:8764:82.0
+tipo:ACPM:8569:67.33609522698097
+tipo:Corriente:15520:15519.033505154639
+tipo:extra:18540:85.0
+surtidor:Samuel:diesel:53.0:ACPM:0.0:Corriente:0.0:extra:0.0
+surtidor:Juan:diesel:0.0:ACPM:0.0:Corriente:0.0:extra:20.0
+surtidor:Felipe:diesel:0.0:ACPM:0.0:Corriente:0.9664948453608248:extra:0.0
+surtidor:David:diesel:0.0:ACPM:19.663904773019024:Corriente:0.0:extra:0.0
+empleado:Samuel:464492
+empleado:Felipe:15000
+empleado:David:168500
+empleado:Juan:370800
+empleado:Nicolas:0
